@@ -1,0 +1,8 @@
+{
+  "name": "Responsive Cactus Website",
+  "description": "Responsive ornamental cactus and succulent website featuring a sleek dark theme, plant catalog, care guide, and smooth scroll animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
